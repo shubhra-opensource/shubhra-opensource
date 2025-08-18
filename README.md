@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhra-opensource
-- 👀 I’m interested in R, Python and Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on building packages and research
+- 👀 I’m interested in LLM. MLOps, Data Science and Machine Learning
+- 🌱 I’m currently exploring LLM
+- 💞️ I’m looking to collaborate on building open source packages and research
 - 📫 How to reach me shubhraprakash279@gmail.com
 
 <!---
