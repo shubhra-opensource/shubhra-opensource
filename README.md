@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @shubhra-opensource
-- 👀 I’m interested in LLM. MLOps, Data Science and Machine Learning
-- 🌱 I’m currently exploring LLM
-- 💞️ I’m looking to collaborate on building open source packages and research
-- 📫 How to reach me shubhra.naukri@gmail.com or shubhraprakash279@gmail.com
+# 👋 Hi, I’m Shubhra (@shubhra-opensource)
 
-<!---
-shubhra-opensource/shubhra-opensource is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Passionate about **LLMs, Agentic AI, MLOps, Data Science, and Machine Learning**  
+- 🌱 Currently exploring the exciting world of **Large Language Models (LLMs)**  
+- 🤝 Open to collaborating on **open-source packages, applied research, and AI-driven projects**  
+- 📫 Reach me at: **shubhra.naukri@gmail.com** | **shubhraprakash279@gmail.com**
+
+---
+
+✨ Always curious. Always building. Always learning.  
