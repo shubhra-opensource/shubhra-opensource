@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Dr. Shubhra Prakash (@shubhra-opensource)
+# 👋 Hi, I’m Shubhra (@shubhra-opensource)
 
+---
 <div align="center">
   <img src="src/infogrphics.png" alt="Dr. Shubhra Prakash - Impact-Driven AI and Machine Learning Leadership" width="800"/>
 </div>
@@ -8,19 +9,12 @@
 
 ## 🎯 About
 
-I am an impact-driven AI and machine learning leader with expertise spanning machine learning, MLOps, and cutting-edge frameworks. With a PhD and multiple industry awards, I have demonstrated exceptional leadership in delivering quantifiable business outcomes, including significant review-time reductions and substantial financial savings. My work extends beyond research to practical applications, with widely-used CRAN packages contributing to the open-source community.
+- **Focus areas**: LLMs, Agentic AI, MLOps, Data Science, and Machine Learning  
+- **Currently exploring**: Large Language Models (LLMs) and their real-world applications  
+- **Open to**: Collaborations on open-source packages, applied research, and AI-driven projects  
+- **Reach me**: **shubhra.naukri@gmail.com** | **shubhraprakash279@gmail.com**
 
 ---
-
-## 💼 Focus Areas
-
-- **LLMs & Agentic AI**: Large Language Models and their real-world applications
-- **MLOps**: Machine Learning Operations and production deployment
-- **Data Science & Machine Learning**: Advanced analytics and predictive modeling
-- **Open Source**: Contributing to the community through CRAN packages and collaborative projects
-
----
-
 
 ## 📚 Publications
 
@@ -70,13 +64,6 @@ I am an impact-driven AI and machine learning leader with expertise spanning mac
 
 I am open to collaborations on open-source packages, applied research, and AI-driven projects.
 
----
-
-## 📧 Contact
-
-**Email**: shubhra.naukri@gmail.com | shubhraprakash279@gmail.com
-
----
 
 <div align="center">
   <strong>✨ Always curious. Always building. Always learning. ✨</strong>
