@@ -60,8 +60,12 @@
 ---
 ## Currently exploring
 
-* Agentic AI
-* Full Stack Development  
+* Agentic AI:
+  * Extensive AI Agents
+* Full Stack Development:
+  * HTML/CSS  
+* Machine Learning:
+  * Machine Learning with Graphs
 
 ---
 ## 🤝 Collaboration
