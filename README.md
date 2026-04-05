@@ -10,7 +10,6 @@
 ## 🎯 About
 
 - **Focus areas**: LLMs, Agentic AI, MLOps, Data Science, and Machine Learning  
-- **Currently exploring**: Large Language Models (LLMs) and their real-world applications  
 - **Open to**: Collaborations on open-source packages, applied research, and AI-driven projects  
 - **Reach me**: **shubhra.naukri@gmail.com** | **shubhraprakash279@gmail.com**
 
@@ -59,7 +58,12 @@
   R package for building hierarchical Voronoi tessellations and overlay heatmaps to enable multi-level exploratory data analysis; developed with support from Mu Sigma.
 
 ---
+## Currently exploring
 
+* Agentic AI
+* Full Stack Development  
+
+---
 ## 🤝 Collaboration
 
 I am open to collaborations on open-source packages, applied research, and AI-driven projects.
